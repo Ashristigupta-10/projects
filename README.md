@@ -1,2 +1,2 @@
 # projects
-please install all the packages to run properly your django app.
+Please install all the packages to run properly your django app.
