@@ -1,0 +1,15 @@
+Simple Chat System using Django in Python.
+About the Project:-
+  The project is written in Python using Django,Sqlite, Html, Javascript and Bootstrap
+  It handle multiple users, list of all user in a chatbox and conversation box.
+  In which also has a login and registration page.
+Features:-
+  Login page
+  Registration page
+  Homepage
+  User list Navigation
+  Conversation box
+  Chat/Form Area
+  Automatically load new message on the active conversation
+  Profile Page
+  
